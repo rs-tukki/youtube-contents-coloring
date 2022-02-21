@@ -1,0 +1,12 @@
+{
+  "name": "youtube-contents-coloring",
+  "version": "0.0.1",
+  "devDependencies": {
+    "@types/chrome": "^0.0.178",
+    "copy-webpack-plugin": "^10.2.4",
+    "ts-loader": "^9.2.6",
+    "typescript": "^4.5.5",
+    "webpack": "^5.68.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
